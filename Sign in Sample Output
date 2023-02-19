@@ -1,0 +1,49 @@
+SIGN IN SAMPLE OUTPUT
+
+
+
+runcell(0, 'D:/Spyder/py projects/Lorus_-_Text_Editor_(Pre-Lim Python Project).py')
+Hey there!
+Welcome to Lorus - Text Editor.
+A free tool for you to Search, Replace, and Count  for words or sentence
+
+
+To continue, type "SIGNUP". 
+If you already have an account, type "SIGNIN".
+Type your action: Signin
+You selected SIGN IN.
+Enter your email address: sample@gmail.com
+Please enter your password: sample123
+Please select whether to choose a NEW file, or an EXISTING file.
+Type "SELECT NEW" if you want to select a new file.
+and type "SELECT EXISTING" if you want to select an existing file.
+Enter file action: select existing
+File selected! What do you want to edit in your file?
+Type "SENTENCE" if you prefer to edit sentence.
+Type "WORD" if you prefer to edit word.
+Enter which you would edit: word
+What word do you want to edit? 
+type your word: late
+What do you want to do with your word?
+If you wish to replace your word in the file, type "REPLACE".
+If you wish to count your word in the file, type "COUNT"
+Type your action: replace
+Type the word you want as your replacement: early
+Searching your desired word...
+Please wait...
+Word found!
+Word successfully replaced!
+
+
+
+Search finished!
+What do you want to do next?
+Type "SEARCH" if you desire to search more.
+Type "SIGNOUT" if you are finished searching and wished to sign out
+Type your action: signout
+Signing out...
+Re-enter your credentials to proceed signing out.
+Please re-type your email address: sample@gmail.com
+Please re-type your password: sample123
+Successfully signed out!
+Exiting...
